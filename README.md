@@ -19,3 +19,11 @@ bash main.sh
 <div>
 <img src="PASpipline_workflow.png" width="382" height="480" align="center">
 </div> 
+
+## Input
+Please edit 3 input variables in main.sh
+```bash
+sample_sheet="/path/to/your/samplesheet.csv"
+output_base_dir="/path/to/your/output"  
+input_fasta_file="/path/to/your/genome.fa"  
+```
