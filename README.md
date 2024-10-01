@@ -17,5 +17,5 @@ bash main.sh
 
 ## Workflow
 <div>
-<img src="PASpipline_workflow.png" width="200" height="400" align="center">
+<img src="PASpipline_workflow.png" width="600" height="700" align="center">
 </div> 
