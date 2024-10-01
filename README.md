@@ -1,6 +1,6 @@
 # PASpipline
 
-### A pipeline to quantify polyA site (PAS) counts from single-cell RNA-Seq R2.
+### A pipeline to quantify polyA site (PAS) counts from "TVN"-primed single-cell RNA-Seq Read2.
 
 ## Installation
 ```bash
