@@ -16,3 +16,6 @@ bash main.sh
 ```
 
 ## Workflow
+<div>
+<img src="PASpipline_workflow.png">
+</div> 
