@@ -27,3 +27,9 @@ sample_sheet="/path/to/your/samplesheet.csv"
 output_base_dir="/path/to/your/output"  
 input_fasta_file="/path/to/your/genome.fa"  
 ```
+samplesheet.csv:
+```
+sample_id_1, /path/to/your/sample_1.bam,/path/to/your/barcode_1.tsv
+sample_id_2, /path/to/your/sample_2.bam,/path/to/your/barcode_2.tsv
+sample_id_3, /path/to/your/sample_3.bam,/path/to/your/barcode_3.tsv
+```
