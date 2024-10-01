@@ -37,5 +37,5 @@ sample_id_3,/path/to/your/sample_3.bam,/path/to/your/barcode_3.tsv
 ## Output
 polyA_cluster_count_matrix.tsv:
 ```
-sample_id	cell_type	polyA_cluster_1	polyA_cluster_2	polyA_cluster_3  ...  polyA_cluster_n
+sample_id  cell_type  polyA_cluster_1  polyA_cluster_2  ...  polyA_cluster_n
 ```
