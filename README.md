@@ -1,6 +1,6 @@
 # PASpipline
 
-### A pipline to quantify polyA site (PAS) counts from single-cell RNA-Seq.
+### A pipeline to quantify polyA site (PAS) counts from single-cell RNA-Seq R2.
 
 ## Installation
 ```bash
@@ -14,3 +14,5 @@ conda env create -f env_scTail.yml
 ```bash
 bash main.sh
 ```
+
+## Workflow
