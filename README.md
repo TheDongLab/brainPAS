@@ -2,7 +2,7 @@
 
 ### A pipeline to quantify polyA site (PAS) counts from "TVN"-primed single-cell RNA-Seq Read2.
 
-## Installation
+## Installation1
 ```bash
 cd envs
 conda env create -f env_APA.yml
